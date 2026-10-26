@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Array2/Array2.csproj" Id="6e137a8e-0295-4a5b-926a-984a62c7871a" />
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="e7689503-ad76-4b3c-882b-3006b4d3101d" />
   <Project Path="HW_Array/HW_Array.csproj" Id="e606b426-ece6-4707-b57c-2ab8ef23865b" />
   <Project Path="loopebi/loopebi.csproj" />
