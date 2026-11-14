@@ -5,4 +5,5 @@
   <Project Path="HW_Array/HW_Array.csproj" Id="e606b426-ece6-4707-b57c-2ab8ef23865b" />
   <Project Path="loopebi/loopebi.csproj" />
   <Project Path="Methods_functions/Methods_functions.csproj" Id="a26b5b14-be33-438d-ac39-3e44b338a7b8" />
+  <Project Path="OOP1/OOP1.csproj" Id="8c4d46b6-0eef-4a1e-b5a2-ef28960d043b" />
 </Solution>
