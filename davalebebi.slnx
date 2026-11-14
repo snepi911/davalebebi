@@ -3,4 +3,5 @@
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="e7689503-ad76-4b3c-882b-3006b4d3101d" />
   <Project Path="HW_Array/HW_Array.csproj" Id="e606b426-ece6-4707-b57c-2ab8ef23865b" />
   <Project Path="loopebi/loopebi.csproj" />
+  <Project Path="Methods_functions/Methods_functions.csproj" Id="a26b5b14-be33-438d-ac39-3e44b338a7b8" />
 </Solution>
